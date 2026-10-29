@@ -133,7 +133,7 @@ export function normalizeRecipe(meal) {
   const rawInstructions = typeof meal.strInstructions === 'string' ? meal.strInstructions.trim() : '';
   const instructions = rawInstructions
     ? rawInstructions.split(/\r?\n+/)
-        .map((step) => step.replace(/^\d+[\.\)]\s*/, '').trim())
+        .map((step) => step.replace(/^\d+[.)]\s*/, '').trim())
         .filter(Boolean)
     : [];
 

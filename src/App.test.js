@@ -1,5 +1,5 @@
 import '@testing-library/jest-dom';
-import { fireEvent, render, screen, waitFor } from '@testing-library/react';
+import { fireEvent, render, screen, waitFor, within } from '@testing-library/react';
 import App from './App';
 
 const recipeMeal = {
@@ -54,7 +54,7 @@ test('Nigerian discovery loads local guides and searches TheMealDB only after se
   render(<App />);
 
   expect(await screen.findByRole('heading', { name: 'Nigerian meals' })).toBeInTheDocument();
-  expect(screen.getByRole('group', { name: 'Nigerian dish suggestions' }).querySelectorAll('button')).toHaveLength(25);
+  expect(within(screen.getByRole('group', { name: 'Nigerian dish suggestions' })).getAllByRole('button')).toHaveLength(25);
   expect(global.fetch.mock.calls.some(([url]) => url === '/db.json')).toBe(true);
 
   fireEvent.click(screen.getByRole('button', { name: 'Jollof rice' }));

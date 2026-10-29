@@ -1,14 +1,11 @@
 import {
   getRecipeDetails,
   getDiscoverRecipes,
-  getRecipeNutrition,
   getNigerianSearchAlternatives,
   normalizeRecipe,
   NIGERIAN_DISH_SUGGESTIONS,
   searchRecipes,
-  searchNigerianRecipes,
   searchRecipesByCuisine,
-  searchRecipesByIngredients,
 } from './mealService';
 
 beforeEach(() => {
