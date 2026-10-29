@@ -1,0 +1,1078 @@
+{
+  "nigerianFoods": [
+    {
+      "id": "ng-jollof-rice",
+      "name": "Jollof Rice",
+      "description": "A West African one-pot rice dish cooked in a seasoned tomato and pepper base.",
+      "category": "Rice dishes",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Jollof_rice_with_vegetable.jpg/960px-Jollof_rice_with_vegetable.jpg",
+      "imageAlt": "Photograph of Jollof Rice",
+      "ingredients": [
+        "Long-grain rice",
+        "Tomatoes",
+        "Red bell pepper",
+        "Onion",
+        "Stock",
+        "Vegetable oil",
+        "Curry powder",
+        "Thyme"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 45,
+      "servings": 6,
+      "instructions": [
+        "Blend tomatoes, bell pepper, and part of the onion into a smooth mixture.",
+        "Cook sliced onion in oil, add the tomato mixture, and simmer until reduced.",
+        "Season the sauce, stir in rice and stock, cover, and cook over low heat until the rice is tender."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Jollof rice with vegetable.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jollof_rice_with_vegetable.jpg",
+      "imageCredit": "Segun Famisa",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-nigerian-fried-rice",
+      "name": "Nigerian Fried Rice",
+      "description": "Rice stir-fried with vegetables and Nigerian curry-seasoned stock.",
+      "category": "Rice dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Fried_rice_and_chicken_garnished_with_sweet_corn%2C_carrot_and_green_peas.jpg",
+      "imageAlt": "Nigerian fried rice with chicken, sweet corn, carrot, and green peas",
+      "ingredients": [
+        "Long-grain rice",
+        "Carrot",
+        "Green beans",
+        "Sweet corn",
+        "Green peas",
+        "Onion",
+        "Stock",
+        "Curry powder"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 35,
+      "servings": 6,
+      "instructions": [
+        "Rinse the rice and parboil it briefly in seasoned stock, then drain.",
+        "Dice the vegetables and stir-fry them with onion and curry powder.",
+        "Add the rice in batches and stir-fry until heated through and evenly mixed."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Fried rice and chicken garnished with sweet corn, carrot and green peas.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_rice_and_chicken_garnished_with_sweet_corn,_carrot_and_green_peas.jpg",
+      "imageCredit": "Bukky658",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-ofada-rice",
+      "name": "Ofada Rice",
+      "description": "A traditional, aromatic Nigerian rice commonly served with a spicy pepper sauce.",
+      "category": "Rice dishes",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ofada_Rice.jpg/960px-Ofada_Rice.jpg",
+      "imageAlt": "Photograph of Ofada Rice",
+      "ingredients": [
+        "Ofada rice",
+        "Water",
+        "Salt"
+      ],
+      "preparationMinutes": 10,
+      "cookingMinutes": 40,
+      "servings": 4,
+      "instructions": [
+        "Pick over the rice and rinse it thoroughly.",
+        "Cook in fresh water until the grains are tender, adding water as needed.",
+        "Drain excess water and serve hot, traditionally with ayamase sauce."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Ofada Rice.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ofada_Rice.jpg",
+      "imageCredit": "Ijeoma",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-coconut-rice",
+      "name": "Coconut Rice",
+      "description": "Rice simmered with coconut milk and aromatics for a fragrant, gently rich dish.",
+      "category": "Rice dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Coconut_Rice.jpg",
+      "imageAlt": "Nigerian coconut rice served on a plate",
+      "ingredients": [
+        "Rice",
+        "Coconut milk",
+        "Onion",
+        "Stock or water",
+        "Salt",
+        "Thyme"
+      ],
+      "preparationMinutes": 10,
+      "cookingMinutes": 30,
+      "servings": 4,
+      "instructions": [
+        "Rinse the rice until the water runs mostly clear.",
+        "Combine rice, coconut milk, stock, sliced onion, thyme, and salt in a pot.",
+        "Cover and cook over low heat until tender, then fluff before serving."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Coconut Rice.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coconut_Rice.jpg",
+      "imageCredit": "Aderiqueza",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-egusi-soup",
+      "name": "Egusi Soup",
+      "description": "A hearty Nigerian soup thickened with ground melon seeds and leafy vegetables.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Egusi_soup_in_a_plate.jpg/960px-Egusi_soup_in_a_plate.jpg",
+      "imageAlt": "Photograph of Egusi Soup",
+      "ingredients": [
+        "Ground egusi (melon seeds)",
+        "Palm oil",
+        "Stock",
+        "Leafy vegetables",
+        "Onion",
+        "Pepper",
+        "Seasoning"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 45,
+      "servings": 6,
+      "instructions": [
+        "Mix ground egusi with a little water to form a thick paste.",
+        "Heat palm oil, add onion and pepper, then cook the egusi paste in small portions.",
+        "Add stock and simmer until the soup thickens; stir in leafy vegetables near the end."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Egusi soup in a plate.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Egusi_soup_in_a_plate.jpg",
+      "imageCredit": "Tesleemah",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-efo-riro",
+      "name": "Efo Riro",
+      "description": "A Yoruba spinach stew prepared with peppers, tomatoes, and palm oil.",
+      "category": "Soups",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prepared_%28Vegetable%29_Efo_Riro.jpg",
+      "imageAlt": "Photograph of Efo Riro",
+      "ingredients": [
+        "Spinach or other leafy greens",
+        "Red bell pepper",
+        "Tomatoes",
+        "Onion",
+        "Palm oil",
+        "Stock",
+        "Seasoning"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 35,
+      "servings": 5,
+      "instructions": [
+        "Blend the peppers, tomatoes, and part of the onion.",
+        "Cook the blended mixture in palm oil until reduced, then add stock and seasoning.",
+        "Fold in the washed greens and simmer until just tender."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Prepared (Vegetable) Efo Riro.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prepared_(Vegetable)_Efo_Riro.jpg",
+      "imageCredit": "James Moore200",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-okra-soup",
+      "name": "Okra Soup",
+      "description": "A draw-textured soup made with chopped okra, stock, and traditional seasonings.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Okra_soup%2C_melon_soup_and_catfish_stew.jpg/960px-Okra_soup%2C_melon_soup_and_catfish_stew.jpg",
+      "imageAlt": "Photograph of Okra Soup",
+      "ingredients": [
+        "Fresh okra",
+        "Stock",
+        "Palm oil",
+        "Onion",
+        "Pepper",
+        "Leafy greens",
+        "Seasoning"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 25,
+      "servings": 5,
+      "instructions": [
+        "Wash and finely chop or grate the okra.",
+        "Bring stock to a simmer with onion, pepper, and palm oil.",
+        "Add the okra and stir until it thickens; add greens and cook briefly."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Okra soup, melon soup and catfish stew.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Okra_soup%2C_melon_soup_and_catfish_stew.jpg",
+      "imageCredit": "Joan Onanyo",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-ogbono-soup",
+      "name": "Ogbono Soup",
+      "description": "A smooth, draw-textured Nigerian soup thickened with ground wild mango seeds.",
+      "category": "Soups",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ogbono_soup_with_beef_and_roasted_cow_skin.jpg",
+      "imageAlt": "Photograph of Ogbono Soup",
+      "ingredients": [
+        "Ground ogbono seeds",
+        "Palm oil",
+        "Stock",
+        "Onion",
+        "Pepper",
+        "Leafy vegetables",
+        "Seasoning"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 35,
+      "servings": 5,
+      "instructions": [
+        "Stir ground ogbono into palm oil to make a smooth mixture.",
+        "Add the mixture to simmering stock and stir until the soup thickens.",
+        "Season to taste, add greens, and simmer until cooked."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Ogbono soup with beef and roasted cow skin.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ogbono_soup_with_beef_and_roasted_cow_skin.jpg",
+      "imageCredit": "Bukky658",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-afang-soup",
+      "name": "Afang Soup",
+      "description": "A rich southeastern Nigerian soup featuring finely chopped afang and waterleaf.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Afang_Soup.jpg/960px-Afang_Soup.jpg",
+      "imageAlt": "Photograph of Afang Soup",
+      "ingredients": [
+        "Afang leaves",
+        "Waterleaf",
+        "Palm oil",
+        "Stock",
+        "Pepper",
+        "Onion",
+        "Seasoning"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 40,
+      "servings": 6,
+      "instructions": [
+        "Wash and finely shred the afang and waterleaf separately.",
+        "Simmer stock with palm oil, pepper, onion, and seasoning.",
+        "Add waterleaf and cook until softened, then stir in afang and simmer briefly."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Afang Soup.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Afang_Soup.jpg",
+      "imageCredit": "Yemisi Ogbe",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-edikaikong-soup",
+      "name": "Edikaikong Soup",
+      "description": "A vegetable-rich soup from southeastern Nigeria made with pumpkin and waterleaf.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Edikaikong_soup.JPG/960px-Edikaikong_soup.JPG",
+      "imageAlt": "Photograph of Edikaikong Soup",
+      "ingredients": [
+        "Fluted pumpkin leaves",
+        "Waterleaf",
+        "Palm oil",
+        "Stock",
+        "Onion",
+        "Pepper",
+        "Seasoning"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 35,
+      "servings": 6,
+      "instructions": [
+        "Wash and slice the vegetables, keeping the pumpkin leaves separate.",
+        "Simmer stock with palm oil, onion, pepper, and seasoning.",
+        "Add waterleaf and cook until reduced, then fold in pumpkin leaves and cook until tender."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Edikaikong soup.JPG",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Edikaikong_soup.JPG",
+      "imageCredit": "Zaracooks",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-oha-soup",
+      "name": "Oha Soup",
+      "description": "An Igbo soup with tender oha leaves and a thickening base of cocoyam.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Soup_and_swallow_%28_Oha_soup_and_swallow%29.jpg/960px-Soup_and_swallow_%28_Oha_soup_and_swallow%29.jpg",
+      "imageAlt": "Photograph of Oha Soup",
+      "ingredients": [
+        "Oha leaves",
+        "Cocoyam",
+        "Palm oil",
+        "Stock",
+        "Onion",
+        "Pepper",
+        "Seasoning"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 45,
+      "servings": 6,
+      "instructions": [
+        "Boil cocoyam until soft, peel, and pound or blend into a smooth paste.",
+        "Simmer stock with palm oil, pepper, and seasoning; stir in the cocoyam paste to thicken.",
+        "Add shredded oha leaves near the end and cook briefly."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Soup and swallow (Oha soup and swallow).jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Soup_and_swallow_(Oha_soup_and_swallow).jpg",
+      "imageCredit": "Beendy234",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-banga-soup",
+      "name": "Banga Soup",
+      "description": "A Niger Delta palm-fruit soup seasoned with fragrant local spices.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Banga_Soup.jpg/960px-Banga_Soup.jpg",
+      "imageAlt": "Photograph of Banga Soup",
+      "ingredients": [
+        "Palm fruit extract",
+        "Stock",
+        "Onion",
+        "Pepper",
+        "Banga spice",
+        "Scent leaves",
+        "Seasoning"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 50,
+      "servings": 6,
+      "instructions": [
+        "Simmer palm fruit extract until the oil rises to the surface.",
+        "Add stock, onion, pepper, and banga spices; cook until the soup thickens.",
+        "Add scent leaves shortly before serving."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Banga Soup.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Banga_Soup.jpg",
+      "imageCredit": "Ehinomen55",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-bitterleaf-soup",
+      "name": "Bitterleaf Soup",
+      "description": "A traditional Igbo soup made with washed bitterleaf and a thickening ingredient.",
+      "category": "Soups",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Soup_and_swallow_%28Bitterleaf_soup_and_swallow%29_Nigerian_dish.jpg/960px-Soup_and_swallow_%28Bitterleaf_soup_and_swallow%29_Nigerian_dish.jpg",
+      "imageAlt": "Photograph of Bitterleaf Soup",
+      "ingredients": [
+        "Washed bitterleaf",
+        "Cocoyam",
+        "Palm oil",
+        "Stock",
+        "Crayfish",
+        "Pepper",
+        "Seasoning"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 50,
+      "servings": 6,
+      "instructions": [
+        "Boil cocoyam until soft, peel, and pound or blend until smooth.",
+        "Simmer stock with palm oil, crayfish, pepper, and seasoning.",
+        "Stir in cocoyam paste to thicken, add washed bitterleaf, and simmer until tender."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Soup and swallow (Bitterleaf soup and swallow) Nigerian dish.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Soup_and_swallow_(Bitterleaf_soup_and_swallow)_Nigerian_dish.jpg",
+      "imageCredit": "Beendy234",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-pounded-yam",
+      "name": "Pounded Yam",
+      "description": "A smooth, stretchy swallow traditionally made by pounding cooked yam.",
+      "category": "Swallows",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Pounded_yam_and_soup.JPG/960px-Pounded_yam_and_soup.JPG",
+      "imageAlt": "Photograph of Pounded Yam",
+      "ingredients": [
+        "White yam",
+        "Water"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 25,
+      "servings": 4,
+      "instructions": [
+        "Peel and cut yam into even chunks, then rinse.",
+        "Boil in water until completely tender and drain.",
+        "Pound while hot in a mortar, adding small amounts of hot water as needed, until smooth and stretchy."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Pounded yam and soup.JPG",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pounded_yam_and_soup.JPG",
+      "imageCredit": "Nne75",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-amala",
+      "name": "Amala",
+      "description": "A soft Yoruba swallow made by stirring yam or cassava flour into hot water.",
+      "category": "Swallows",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Yam_flour_swallow_and_soup_%28Nigerian_cuisine%29%28_Amala%29.jpg/960px-Yam_flour_swallow_and_soup_%28Nigerian_cuisine%29%28_Amala%29.jpg",
+      "imageAlt": "Photograph of amala served with soup",
+      "ingredients": [
+        "Yam flour (elubo)",
+        "Water"
+      ],
+      "preparationMinutes": 5,
+      "cookingMinutes": 15,
+      "servings": 4,
+      "instructions": [
+        "Bring water to a boil in a pot.",
+        "Gradually add yam flour while stirring continuously to prevent lumps.",
+        "Stir and fold until smooth and firm, then cover briefly before serving."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Yam flour swallow and soup (Nigerian cuisine)( Amala).jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_flour_swallow_and_soup_(Nigerian_cuisine)(_Amala).jpg",
+      "imageCredit": "Beendy234",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-eba",
+      "name": "Eba",
+      "description": "A firm or soft Nigerian swallow made by mixing garri with hot water.",
+      "category": "Swallows",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/A_picture_of_Eba_and_Roselle_soup.jpg",
+      "imageAlt": "Eba served with Roselle soup",
+      "ingredients": [
+        "Garri (cassava granules)",
+        "Boiling water"
+      ],
+      "preparationMinutes": 5,
+      "cookingMinutes": 5,
+      "servings": 4,
+      "instructions": [
+        "Place garri in a heat-safe bowl.",
+        "Pour boiling water over the garri gradually while stirring with a wooden spoon.",
+        "Knead until smooth and adjust with a little more garri or water to reach the desired firmness."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "A picture of Eba and Roselle soup.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_picture_of_Eba_and_Roselle_soup.jpg",
+      "imageCredit": "Bukky658",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-fufu",
+      "name": "Fufu",
+      "description": "A soft, stretchy swallow made from fermented cassava dough or cassava flour.",
+      "category": "Swallows",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Nigerian_Food_Fufu.jpg/960px-Nigerian_Food_Fufu.jpg",
+      "imageAlt": "Photograph of Nigerian fufu",
+      "ingredients": [
+        "Cassava dough or cassava flour",
+        "Water"
+      ],
+      "preparationMinutes": 10,
+      "cookingMinutes": 20,
+      "servings": 4,
+      "instructions": [
+        "If using cassava dough, dissolve it in water and strain to remove lumps.",
+        "Cook over medium heat, stirring and folding continuously as it thickens.",
+        "Continue until smooth and stretchy; shape and serve warm."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Nigerian Food Fufu.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nigerian_Food_Fufu.jpg",
+      "imageCredit": "Naydness danidamiobi",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-tuwo-shinkafa",
+      "name": "Tuwo Shinkafa",
+      "description": "A soft northern Nigerian rice swallow prepared by cooking and mashing rice.",
+      "category": "Swallows",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tuwo_Shinkafa_%28Rice_Swallow%29.jpg",
+      "imageAlt": "Tuwo shinkafa served with vegetable soup",
+      "ingredients": [
+        "Short-grain rice",
+        "Water"
+      ],
+      "preparationMinutes": 10,
+      "cookingMinutes": 35,
+      "servings": 4,
+      "instructions": [
+        "Rinse the rice and add it to a pot with water.",
+        "Cook until very soft, adding hot water if needed.",
+        "Mash and stir the rice against the side of the pot until it forms a smooth dough."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Tuwo Shinkafa (Rice Swallow).jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tuwo_Shinkafa_(Rice_Swallow).jpg",
+      "imageCredit": "Aderiqueza",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-moi-moi",
+      "name": "Moi Moi",
+      "description": "A steamed savoury bean pudding seasoned with peppers and onion.",
+      "category": "Snacks",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Moin_Moin.jpg/960px-Moin_Moin.jpg",
+      "imageAlt": "Photograph of Moi Moi",
+      "ingredients": [
+        "Black-eyed peas",
+        "Red bell pepper",
+        "Onion",
+        "Vegetable oil",
+        "Water",
+        "Salt"
+      ],
+      "preparationMinutes": 30,
+      "cookingMinutes": 50,
+      "servings": 6,
+      "instructions": [
+        "Soak the beans and remove their skins by rubbing and rinsing.",
+        "Blend the peeled beans with pepper, onion, and water until smooth; mix in oil and salt.",
+        "Pour into heat-safe containers and steam until firm and cooked through."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Moin Moin.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Moin_Moin.jpg",
+      "imageCredit": "Rka11111",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-akara",
+      "name": "Akara",
+      "description": "Crisp Nigerian bean fritters made from peeled black-eyed peas.",
+      "category": "Snacks",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/AKARA.jpg/960px-AKARA.jpg",
+      "imageAlt": "Photograph of Nigerian akara bean cakes",
+      "ingredients": [
+        "Black-eyed peas",
+        "Onion",
+        "Pepper",
+        "Salt",
+        "Vegetable oil"
+      ],
+      "preparationMinutes": 30,
+      "cookingMinutes": 20,
+      "servings": 4,
+      "instructions": [
+        "Soak the beans and remove their skins, rinsing until clean.",
+        "Blend with a small amount of water, onion, pepper, and salt into a thick batter; beat until aerated.",
+        "Spoon portions into hot oil and fry, turning, until golden and cooked through."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "AKARA.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:AKARA.jpg",
+      "imageCredit": "Linason Blessing",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-puff-puff",
+      "name": "Puff Puff",
+      "description": "Soft, lightly sweet Nigerian dough balls fried until golden.",
+      "category": "Snacks",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Nigerian-puff-puff-recipe_cropped.jpg",
+      "imageAlt": "Photograph of Nigerian puff puff",
+      "ingredients": [
+        "Flour",
+        "Yeast",
+        "Sugar",
+        "Warm water",
+        "Salt",
+        "Vegetable oil"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 25,
+      "servings": 6,
+      "instructions": [
+        "Mix flour, yeast, sugar, and salt; add warm water to make a thick batter.",
+        "Cover and leave in a warm place until risen and airy.",
+        "Drop small portions into moderately hot oil and fry, turning, until evenly golden."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Nigerian-puff-puff-recipe cropped.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nigerian-puff-puff-recipe_cropped.jpg",
+      "imageCredit": "Afrolems; cropped by Off-shell",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-chin-chin",
+      "name": "Chin Chin",
+      "description": "Crunchy Nigerian bite-sized fried or baked pastry pieces, often served as a snack.",
+      "category": "Snacks",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Nigerian_ChinChin.jpg/960px-Nigerian_ChinChin.jpg",
+      "imageAlt": "Photograph of Nigerian chin chin",
+      "ingredients": [
+        "Flour",
+        "Sugar",
+        "Butter",
+        "Egg",
+        "Milk",
+        "Nutmeg",
+        "Vegetable oil"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 20,
+      "servings": 8,
+      "instructions": [
+        "Combine flour, sugar, and nutmeg, then rub in butter.",
+        "Mix in egg and milk to form a firm dough; roll out and cut into small pieces.",
+        "Fry in batches until golden, or bake until crisp, then cool before serving."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Nigerian ChinChin.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nigerian_ChinChin.jpg",
+      "imageCredit": "Taoheedah",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-nigerian-meat-pie",
+      "name": "Nigerian Meat Pie",
+      "description": "A savoury baked pastry filled with seasoned minced meat and vegetables.",
+      "category": "Snacks",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Meat_pie_in_Northern_Nigeria.jpg/960px-Meat_pie_in_Northern_Nigeria.jpg",
+      "imageAlt": "Photograph of a meat pie from Northern Nigeria",
+      "ingredients": [
+        "Flour",
+        "Butter",
+        "Minced beef",
+        "Potato",
+        "Carrot",
+        "Onion",
+        "Egg",
+        "Seasoning"
+      ],
+      "preparationMinutes": 40,
+      "cookingMinutes": 35,
+      "servings": 8,
+      "instructions": [
+        "Cook minced beef with onion, diced potato, carrot, and seasoning until the filling is tender; cool it.",
+        "Rub butter into flour, add cold water, and bring together into pastry dough; chill briefly.",
+        "Fill pastry rounds, seal and glaze with beaten egg, then bake until golden."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Meat pie in Northern Nigeria.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Meat_pie_in_Northern_Nigeria.jpg",
+      "imageCredit": "Zahraswaty",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-suya",
+      "name": "Suya",
+      "description": "Nigerian-style skewered meat coated in a spicy peanut and chilli seasoning.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Suya_and_Apples.jpg",
+      "imageAlt": "Photograph of Suya",
+      "ingredients": [
+        "Thinly sliced beef",
+        "Ground peanuts",
+        "Ground ginger",
+        "Paprika",
+        "Cayenne pepper",
+        "Salt",
+        "Onion"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 15,
+      "servings": 4,
+      "instructions": [
+        "Combine ground peanuts with ginger, paprika, cayenne, and salt.",
+        "Thread thin beef slices onto skewers and coat with the spice mixture.",
+        "Grill or broil, turning regularly, until browned and cooked through; serve with sliced onion."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Suya and Apples.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Suya_and_Apples.jpg",
+      "imageCredit": "Bukky658",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-pepper-soup",
+      "name": "Pepper Soup",
+      "description": "A light, aromatic Nigerian broth seasoned with chilli and pepper-soup spices.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Goat_meat_pepper_soup_served_with_bread.jpg/960px-Goat_meat_pepper_soup_served_with_bread.jpg",
+      "imageAlt": "Goat meat pepper soup served with bread",
+      "ingredients": [
+        "Fish or meat",
+        "Pepper-soup spice",
+        "Chilli pepper",
+        "Onion",
+        "Scent leaves",
+        "Water",
+        "Salt"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 40,
+      "servings": 4,
+      "instructions": [
+        "Place the cleaned fish or meat in a pot with onion, pepper, and water.",
+        "Add pepper-soup spice and simmer until the protein is cooked and the broth is fragrant.",
+        "Stir in scent leaves and salt, then simmer briefly before serving."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Goat meat pepper soup served with bread.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Goat_meat_pepper_soup_served_with_bread.jpg",
+      "imageCredit": "Nancy Nwachukwu",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-yam-porridge",
+      "name": "Yam Porridge",
+      "description": "A one-pot Nigerian dish of yam cubes simmered with pepper, onion, and palm oil.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yam_pottage_or_%C3%80s%C3%A1r%C3%B3.jpg",
+      "imageAlt": "Nigerian yam pottage, also called asaro",
+      "ingredients": [
+        "White yam",
+        "Palm oil",
+        "Onion",
+        "Pepper",
+        "Stock or water",
+        "Leafy greens",
+        "Salt"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 35,
+      "servings": 5,
+      "instructions": [
+        "Peel and cut yam into bite-sized cubes, then rinse.",
+        "Simmer yam with stock, onion, pepper, and palm oil until nearly tender.",
+        "Mash a few pieces into the liquid to thicken, add greens, and cook until tender."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Yam pottage or ?s?r?.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_pottage_or_%C3%80s%C3%A1r%C3%B3.jpg",
+      "imageCredit": "Kojodavid",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-beans-porridge",
+      "name": "Beans Porridge",
+      "description": "A filling Nigerian bean dish cooked slowly with onion, pepper, and palm oil.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Beans_porridge_and_fried_plantains.jpg",
+      "imageAlt": "Nigerian beans porridge served with fried plantains",
+      "ingredients": [
+        "Black-eyed peas or brown beans",
+        "Onion",
+        "Palm oil",
+        "Pepper",
+        "Water",
+        "Salt"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 60,
+      "servings": 5,
+      "instructions": [
+        "Rinse the beans and place them in a pot with water and sliced onion.",
+        "Cook until the beans are tender, adding hot water as needed.",
+        "Stir in palm oil, pepper, and salt; simmer until the liquid thickens."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Beans porridge and fried plantains.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Beans_porridge_and_fried_plantains.jpg",
+      "imageCredit": "Bukky658",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-beans-and-plantain",
+      "name": "Beans and Plantain",
+      "description": "A familiar Nigerian combination of soft beans and ripe plantain, served together.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Beans_and_plantain.jpg/960px-Beans_and_plantain.jpg",
+      "imageAlt": "Beans served with plantain",
+      "ingredients": [
+        "Beans",
+        "Ripe plantain",
+        "Onion",
+        "Palm oil",
+        "Pepper",
+        "Salt"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 60,
+      "servings": 4,
+      "instructions": [
+        "Cook rinsed beans with onion and water until soft.",
+        "Season the beans with palm oil, pepper, and salt and simmer until creamy.",
+        "Peel and boil or fry the plantain separately, then serve with the beans."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Beans and plantain.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Beans_and_plantain.jpg",
+      "imageCredit": "Gani Ray",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-abacha",
+      "name": "Abacha",
+      "description": "An Igbo African salad made with shredded cassava, palm oil, and fresh garnishes.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Abacha_meal.jpg",
+      "imageAlt": "Abacha, also known as African salad",
+      "ingredients": [
+        "Dried shredded cassava (abacha)",
+        "Palm oil",
+        "Ugba",
+        "Onion",
+        "Garden egg",
+        "Fresh leaves",
+        "Seasoning"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 10,
+      "servings": 4,
+      "instructions": [
+        "Soak abacha in warm water until soft, then drain thoroughly.",
+        "Mix palm oil with the chosen seasoning and stir into the abacha.",
+        "Fold in ugba, sliced onion, garden egg, and fresh leaves; serve promptly."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "The Abacha meal.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Abacha_meal.jpg",
+      "imageCredit": "Adimora chidinma",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-nkwobi",
+      "name": "Nkwobi",
+      "description": "A traditional Igbo dish of tender cow foot coated in a spicy palm-oil sauce.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nkwobi.jpg",
+      "imageAlt": "Nkwobi garnished with utazi leaves and onions",
+      "ingredients": [
+        "Cow foot",
+        "Palm oil",
+        "Potash solution",
+        "Ground crayfish",
+        "Pepper",
+        "Utazi leaves",
+        "Onion"
+      ],
+      "preparationMinutes": 25,
+      "cookingMinutes": 90,
+      "servings": 4,
+      "instructions": [
+        "Clean and cook cow foot with onion and salt until very tender.",
+        "Stir a small amount of potash solution into palm oil until the mixture thickens and changes colour.",
+        "Mix in pepper and crayfish, coat the cooked cow foot, and garnish with utazi and onion."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Nkwobi.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nkwobi.jpg",
+      "imageCredit": "Iwuala Lucy",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-isi-ewu",
+      "name": "Isi Ewu",
+      "description": "A celebratory Igbo dish of goat head pieces in a spiced palm-oil sauce.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Isi_ewu.jpg",
+      "imageAlt": "Photograph of isi ewu",
+      "ingredients": [
+        "Goat head",
+        "Palm oil",
+        "Potash solution",
+        "Ground crayfish",
+        "Pepper",
+        "Utazi leaves",
+        "Onion"
+      ],
+      "preparationMinutes": 30,
+      "cookingMinutes": 100,
+      "servings": 4,
+      "instructions": [
+        "Clean and cut the goat head into pieces; cook with onion and salt until tender.",
+        "Mix palm oil with a little potash solution until thickened, then add pepper and crayfish.",
+        "Coat the cooked pieces with the sauce and garnish with sliced utazi and onion."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Isi ewu.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Isi_ewu.jpg",
+      "imageCredit": "Aderiqueza",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-asaro",
+      "name": "Asaro (Yam Pottage)",
+      "description": "A Yoruba-style yam pottage in which yam cooks down into a soft, savoury stew.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C3%80s%C3%A1r%C3%B3_%28Yam_Porridge%29.jpg",
+      "imageAlt": "Asaro yam porridge served with fried beef",
+      "ingredients": [
+        "White yam",
+        "Palm oil",
+        "Tomatoes",
+        "Pepper",
+        "Onion",
+        "Stock",
+        "Leafy greens"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 40,
+      "servings": 5,
+      "instructions": [
+        "Peel and cube yam, then rinse.",
+        "Cook onion, tomatoes, and pepper in palm oil; add stock and yam.",
+        "Cover and simmer until yam is tender, mashing some pieces into the sauce; stir in greens before serving."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "?s?r? (Yam Porridge).jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%80s%C3%A1r%C3%B3_(Yam_Porridge).jpg",
+      "imageCredit": "Aderiqueza",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-ukwa",
+      "name": "Ukwa (African Breadfruit)",
+      "description": "A traditional Igbo dish of African breadfruit simmered until soft and savoury.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ukwa_%28Breadfruit%29.jpg",
+      "imageAlt": "Ukwa African breadfruit served ready to eat",
+      "ingredients": [
+        "Dried African breadfruit (ukwa)",
+        "Water",
+        "Palm oil",
+        "Onion",
+        "Pepper",
+        "Salt"
+      ],
+      "preparationMinutes": 15,
+      "cookingMinutes": 90,
+      "servings": 5,
+      "instructions": [
+        "Sort and rinse the breadfruit thoroughly.",
+        "Cook in plenty of water until the grains are tender, adding water as needed.",
+        "Season with onion, pepper, palm oil, and salt; simmer until the liquid is absorbed."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Ukwa (Breadfruit).jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ukwa_(Breadfruit).jpg",
+      "imageCredit": "Aderiqueza",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-gbegiri",
+      "name": "Gbegiri",
+      "description": "A Yoruba bean soup made from peeled beans and traditionally paired with ewedu and stew.",
+      "category": "Soups",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Amala_and_Gbegiri_with_Ewedu_soup.jpg",
+      "imageAlt": "Gbegiri with amala and ewedu soup",
+      "ingredients": [
+        "Black-eyed peas or brown beans",
+        "Water",
+        "Palm oil",
+        "Pepper",
+        "Salt"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 50,
+      "servings": 5,
+      "instructions": [
+        "Soak beans and remove the skins, then rinse.",
+        "Boil the beans until very soft and mash or blend until smooth.",
+        "Return to low heat, stir in palm oil and pepper, and season to taste."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Amala and Gbegiri with Ewedu soup.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Amala_and_Gbegiri_with_Ewedu_soup.jpg",
+      "imageCredit": "Bukky658",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-ewa-agoyin",
+      "name": "Ewa Agoyin",
+      "description": "Very soft-cooked beans served with a deeply browned, peppery onion sauce.",
+      "category": "Other Nigerian dishes",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ewa_agoyin.jpg/960px-Ewa_agoyin.jpg",
+      "imageAlt": "Photograph of ewa agoyin",
+      "ingredients": [
+        "Black-eyed peas",
+        "Dried peppers",
+        "Onion",
+        "Palm oil",
+        "Salt"
+      ],
+      "preparationMinutes": 20,
+      "cookingMinutes": 80,
+      "servings": 5,
+      "instructions": [
+        "Cook rinsed beans in water until very soft, then lightly mash.",
+        "Soak dried peppers and blend or grind them coarsely.",
+        "Fry sliced onion in palm oil until deeply browned, add pepper, and cook into a thick sauce; serve over the beans."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Ewa agoyin.jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ewa_agoyin.jpg",
+      "imageCredit": "Atimukoh",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "ng-dodo",
+      "name": "Dodo (Fried Plantain)",
+      "description": "Ripe plantain slices fried until caramelized and golden, commonly served as a side or snack.",
+      "category": "Snacks",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Dodo_%28Plantain%29.jpg",
+      "imageAlt": "Nigerian dodo fried plantain",
+      "ingredients": [
+        "Ripe plantain",
+        "Vegetable oil",
+        "Salt (optional)"
+      ],
+      "preparationMinutes": 10,
+      "cookingMinutes": 15,
+      "servings": 4,
+      "instructions": [
+        "Peel the plantain and slice diagonally or into rounds.",
+        "Heat a shallow layer of oil in a pan.",
+        "Fry the slices in batches, turning once, until golden and caramelized; drain and serve."
+      ],
+      "imageVerified": true,
+      "imageSourceTitle": "Dodo (Plantain).jpg",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dodo_(Plantain).jpg",
+      "imageCredit": "Makatiola",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  ]
+}
